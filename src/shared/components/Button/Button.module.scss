@@ -1,0 +1,7 @@
+.Button {
+  &:disabled,
+  &:disabled:hover {
+    background-color: #f8c49d;
+    cursor: not-allowed;
+  }
+}
